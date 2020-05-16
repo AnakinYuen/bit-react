@@ -50,5 +50,10 @@
     "bit-bin": "^14.7.6",
     "react-scripts": "3.4.1",
     "typescript": "^3.9.2"
+  },
+  "bit": {
+    "env": {},
+    "componentsDefaultDirectory": "components/{name}",
+    "packageManager": "npm"
   }
 }

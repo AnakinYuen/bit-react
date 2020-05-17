@@ -1,7 +1,18 @@
 {
   "name": "bit-react",
   "version": "0.1.0",
-  "private": true,
+  "description": "React Component Collection for bit.dev",
+  "author": "Anakin Yuen",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AnakinYuen/bit-react.git"
+  },
+  "keywords": [
+    "bit",
+    "bit.dev",
+    "react",
+    "component"
+  ],
   "dependencies": {
     "lodash.throttle": "^4.1.1"
   },

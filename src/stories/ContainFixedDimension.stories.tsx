@@ -19,8 +19,9 @@ export const Basic = () => (
   </ContainFixedDimension>
 );
 
+// use SSL proxy (https://ssl-proxy.my-addr.com/) to display http://howbigismybrowser.com/ on https site
 export const Iframe = () => (
   <ContainFixedDimension designWidth={1280} designHeight={720}>
-    <iframe title="How Big Is My Browser" style={{width:'100%',height:'100%'}} src="http://howbigismybrowser.com/" />
+    <iframe title="How Big Is My Browser" style={{width:'100%',height:'100%'}} src="https://ssl-proxy.my-addr.org/myaddrproxy.php/http/howbigismybrowser.com/" />
   </ContainFixedDimension>
 );

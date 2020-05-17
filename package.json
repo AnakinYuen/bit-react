@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "React Component Collection for bit.dev",
   "author": "Anakin Yuen",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/AnakinYuen/bit-react.git"

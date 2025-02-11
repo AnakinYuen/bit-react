@@ -50,7 +50,7 @@
     "@storybook/addon-viewport": "^5.3.18",
     "@storybook/addons": "^5.3.18",
     "@storybook/preset-create-react-app": "^2.1.2",
-    "@storybook/react": "^5.3.18",
+    "@storybook/react": "^8.5.3",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
@@ -60,7 +60,7 @@
     "@types/react": "^16.9.35",
     "@types/react-dom": "^16.9.8",
     "bit-bin": "^14.7.6",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "typescript": "^3.9.2"
   },
   "bit": {
